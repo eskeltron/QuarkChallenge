@@ -1,0 +1,7 @@
+C:\Users\Land_\source\repos\QuarkChallenge\QuarkChallenge\obj\Debug\QuarkChallenge.csprojAssemblyReference.cache
+C:\Users\Land_\source\repos\QuarkChallenge\QuarkChallenge\obj\Debug\QuarkChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Land_\source\repos\QuarkChallenge\QuarkChallenge\bin\Debug\QuarkChallenge.exe.config
+C:\Users\Land_\source\repos\QuarkChallenge\QuarkChallenge\bin\Debug\QuarkChallenge.exe
+C:\Users\Land_\source\repos\QuarkChallenge\QuarkChallenge\bin\Debug\QuarkChallenge.pdb
+C:\Users\Land_\source\repos\QuarkChallenge\QuarkChallenge\obj\Debug\QuarkChallenge.exe
+C:\Users\Land_\source\repos\QuarkChallenge\QuarkChallenge\obj\Debug\QuarkChallenge.pdb
