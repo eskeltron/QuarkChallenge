@@ -7,6 +7,7 @@ Por favor, especifica tu nombre completo: Nicolás Gomez
 
 
     Utilizaría una clase abstracta cuando tengo que decir que una clase es "del tipo de", por ejemplo: La clase "Profesor" es del tipo "Persona". 
+    
     Utilizaría una Interfaz cuando tengo que decir que una clase "se comporta como", por ejemplo: La clase "Pajaro" se comporta como un "Volador", entonces la interfaz sería "IVolador".
 3. **¿Qué implica una relación de Generalización entre dos clases?** 
 
@@ -31,6 +32,6 @@ Por favor, especifica tu nombre completo: Nicolás Gomez
 6. **Indique V o F según corresponda. Diferencia entre Asociación y Agregación:**
 
 
-Una diferencia es que la segunda indica la relación entre un “todo” y sus “partes”, mientras que en la primera los objetos están al mismo nivel contextual. V
-Una diferencia es que la Agregación es de cardinalidad 1 a muchos mientras que la Asociación es de 1 a 1. F
-Una diferencia es que, en la Agregación, la vida o existencia de los objetos relacionados está fuertemente ligada, es decir que si “muere” el objeto contenedor también morirán las “partes”, en cambio en la Asociación los objetos viven y existen independientemente de la relación. F
+    Una diferencia es que la segunda indica la relación entre un “todo” y sus “partes”, mientras que en la primera los objetos están al mismo nivel contextual. **V**
+    Una diferencia es que la Agregación es de cardinalidad 1 a muchos mientras que la Asociación es de 1 a 1. **F**
+    Una diferencia es que, en la Agregación, la vida o existencia de los objetos relacionados está fuertemente ligada, es decir que si “muere” el objeto contenedor también     morirán las “partes”, en cambio en la Asociación los objetos viven y existen independientemente de la relación. **F**
