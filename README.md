@@ -41,7 +41,7 @@ Por favor, especifica tu nombre completo: Nicolás Gomez
     Una diferencia es que, en la Agregación, la vida o existencia de los objetos relacionados está fuertemente ligada, es decir que si “muere” el objeto contenedor también     morirán las “partes”, en cambio en la Asociación los objetos viven y existen independientemente de la relación. **F**
 
 
-** Aclaraciones
+## Aclaraciones
 
 - Es una aplicación de consola.
 - Siempre que se utilizan porcentajes se calcula con el valor base, es decir que si la Camisa por tener cuello MAO se le sube el precio un 12% y se le baja el precio un 2% por tener mangas largas, este se va a calcular así: `total = totalSinOperaciones - (totalSinOperaciones * porcentaje / 100);` Utilizando un 10% como porcentaje.
